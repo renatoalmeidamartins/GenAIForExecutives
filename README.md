@@ -14,6 +14,7 @@
 - [Prompt engineering](https://aws.amazon.com/what-is/prompt-engineering/)
 - [RAG](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
 - [Embeddings](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
+- [Agentic AI](https://aws.amazon.com/what-is/agentic-ai/)
 
 ## Party rock links
 - [Experiment with generative AI using PartyRock](https://partyrock.aws/u/pattyrock/1tsLsIaK2/Expermient-with-generative-AI)
