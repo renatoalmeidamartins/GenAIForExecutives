@@ -15,6 +15,7 @@
 - [RAG](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
 
 ## Party rock links
+- [Experiment with generative AI using PartyRock](https://partyrock.aws/u/pattyrock/1tsLsIaK2/Expermient-with-generative-AI)
 - [Generate ideas using PartyRock](https://partyrock.aws/u/pattyrock/S9qlGC_4b/1.-Ideas-for-adding-business-value-with-generative-AI)
 - [Generate a high-level plan for your project idea](https://partyrock.aws/u/pattyrock/BisJQwZK2/2.-Plan-a-customized-generative-AI-solution)
 - [Generate suggestions for how to evolve your use of agentic AI](https://partyrock.aws/u/pattyrock/Ob2PiI9-Z/3.-Approaching-agentic-AI)
