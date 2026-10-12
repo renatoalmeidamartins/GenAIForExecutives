@@ -27,6 +27,9 @@
 - [Q business](https://docs.aws.amazon.com/amazonq/latest/qbusiness-ug/qbusiness-availability-change.html) is not available, most of its functionality is now covered by [Quick](https://docs.aws.amazon.com/quick/latest/userguide/what-is.html)
 - [Q Develoer](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html) became [Kiro](https://kiro.dev)
 ## Other links
+- Evaluator prompts for multiple Bedrock-related metrics. This is really useful to come up with other prompts for related metrics (for example, how likely is this content to be AI-generated):
+  - [Inside Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-type-judge-prompt-nova.html)
+  - [Inside Agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html)
 - [Get to your first working agent in minutes: Announcing new features in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore/)
 - [Intelligent prompt-routing in Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
 - [Customize a model with fine-tuning in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/custom-model-fine-tuning.html)
