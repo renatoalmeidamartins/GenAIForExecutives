@@ -22,6 +22,9 @@
 - [Generate a high-level plan for your project idea](https://partyrock.aws/u/pattyrock/BisJQwZK2/2.-Plan-a-customized-generative-AI-solution)
 - [Generate suggestions for how to evolve your use of agentic AI](https://partyrock.aws/u/pattyrock/Ob2PiI9-Z/3.-Approaching-agentic-AI)
 - [Generate a summary of considerations for scaling your pilot](https://partyrock.aws/u/pattyrock/KdPDw_I-R/4.-Scaling-your-generative-AI-project)
+
+## Deprecated services
+- [Q business](https://docs.aws.amazon.com/amazonq/latest/qbusiness-ug/qbusiness-availability-change.html) is not available, most of its functionality is now covered by [Quick](https://docs.aws.amazon.com/quick/latest/userguide/what-is.html)
 ## Other links
 - [REAC T: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629)
 - [Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/)
