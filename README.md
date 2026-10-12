@@ -34,7 +34,7 @@
   - [AWS's responsible AI](https://aws.amazon.com/ai/responsible-ai/)
   - [AI Security scoping matrix](https://aws.amazon.com/ai/security/generative-ai-scoping-matrix/)
   - [OWASP top 10 for LLM applications](https://owasp.org/projects/top-10-for-large-language-model-applications)
-  - [NST's AI risk management framework](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf)
+  - [NIST's AI risk management framework](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf)
 - Transform
   - [Announcing Amazon Q Developer transformation capabilities for .NET, mainframe, and VMware workloads in a web experience (preview)](https://aws.amazon.com/blogs/aws/announcing-amazon-q-developer-transformation-capabilities-for-net-mainframe-and-vmware-workloads-preview/)
   - [AWS Transform](https://docs.aws.amazon.com/transform/latest/userguide/what-is-service.html)
