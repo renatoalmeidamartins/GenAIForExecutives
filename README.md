@@ -49,6 +49,8 @@
   - [Managed transformations](https://docs.aws.amazon.com/transform/latest/userguide/transform-aws-customs.html)
   - [Github repo with sample transforms](https://github.com/aws-samples/aws-transform-custom-samples/tree/main), basically skills files, because the services is purely agent-based
 - Adoption
+  - [Maturity model for adopting generative AI on AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/strategy-gen-ai-maturity-model/introduction.html)
+  - [GenAI lens for the welll warchitected framework](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/generative-ai-lens.html)
   - [Gartner AI adoption guide](https://www.gartner.com/en/articles/rein-in-ai-spend?utm_source=google&utm_medium=cpc&utm_campaign=RM_GB_YOY_ITTRND_CPC_LG1_NONAGTSAOC&utm_adgroup=187661442943&utm_term=enterprise%20ai%20adoption%20strategies&ad=784973473811&matchtype=p&gad_source=1&gad_campaignid=23287742323&gbraid=0AAAAAC5-i9Rv-r0WNQg4byWDYekbENhGC&gclid=CjwKCAjwirLWBhBBEiwAlItbEg1hnsLilQmdap9qxXb9JUpfxqKw_Iy-JJJMk5UCBlPsGC2Nt_NmdRoCoNcQAvD_BwE)
   - [One of several frameworks being researched for adoption of genai in organizations](https://arxiv.org/pdf/2510.19997)
 
