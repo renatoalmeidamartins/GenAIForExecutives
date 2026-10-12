@@ -13,6 +13,7 @@
 - [Transformers in AI](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
 - [Prompt engineering](https://aws.amazon.com/what-is/prompt-engineering/)
 - [RAG](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
+- [Embeddings](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
 
 ## Party rock links
 - [Experiment with generative AI using PartyRock](https://partyrock.aws/u/pattyrock/1tsLsIaK2/Expermient-with-generative-AI)
@@ -21,6 +22,7 @@
 - [Generate suggestions for how to evolve your use of agentic AI](https://partyrock.aws/u/pattyrock/Ob2PiI9-Z/3.-Approaching-agentic-AI)
 - [Generate a summary of considerations for scaling your pilot](https://partyrock.aws/u/pattyrock/KdPDw_I-R/4.-Scaling-your-generative-AI-project)
 ## Other links
+- [Embeddings visualization from tensorflow](https://projector.tensorflow.org/)
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Generative AI Customer stories](https://aws.amazon.com/ai/generative-ai/customers/)
 - Security 
