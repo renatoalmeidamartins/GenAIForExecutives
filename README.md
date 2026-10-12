@@ -23,6 +23,7 @@
 - [Generate suggestions for how to evolve your use of agentic AI](https://partyrock.aws/u/pattyrock/Ob2PiI9-Z/3.-Approaching-agentic-AI)
 - [Generate a summary of considerations for scaling your pilot](https://partyrock.aws/u/pattyrock/KdPDw_I-R/4.-Scaling-your-generative-AI-project)
 ## Other links
+- [REAC T: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629)
 - [Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/)
 - [Bedrock prompt design guidance](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
 - [Implementing advanced prompt engineering with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
