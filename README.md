@@ -20,6 +20,7 @@
 - [Generate suggestions for how to evolve your use of agentic AI](https://partyrock.aws/u/pattyrock/Ob2PiI9-Z/3.-Approaching-agentic-AI)
 - [Generate a summary of considerations for scaling your pilot](https://partyrock.aws/u/pattyrock/KdPDw_I-R/4.-Scaling-your-generative-AI-project)
 ## Other links
+- [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Generative AI Customer stories](https://aws.amazon.com/ai/generative-ai/customers/)
 - Security 
   - [AWS's responsible AI](https://aws.amazon.com/ai/responsible-ai/)
